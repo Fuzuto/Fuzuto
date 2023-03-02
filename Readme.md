@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php and Java**
 
-- 👯 I’m looking to collaborate on **LOCM - Minecraft Bedrock Server**
+- 👯 I’m looking to collaborate on **MINEHUB - Minecraft Bedrock Server**
 
 - 📫 How to reach me **furryjaki1992@gmail.com**
 
