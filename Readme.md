@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fury Le</h1>
-<h3 align="center">A new Php Developer</h3>
+<h1 align="center">Hi 👋, I'm furyZ</h1>
+<h3 align="center">2 years of experience in PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuzuto&label=Profile%20views&color=0e75b6&style=flat" alt="fuzuto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuzuto" alt="fuzuto" /></a> </p>
 
-- 🔭 I’m currently working on **Pocketmine-MP**
+- 🔭 I’m currently working on **Vulx Netowrk** and **PotsVerse**
 
-- 🌱 I’m currently learning **Php and Java**
-
-- 👯 I’m manager of **MINEHUB - Minecraft Bedrock Server**
+- 🌱 I’m currently learning **Php and JavaScript**
 
 - 📫 How to reach me **furryjaki1992@gmail.com**
 
