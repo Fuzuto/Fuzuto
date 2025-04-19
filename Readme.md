@@ -2,7 +2,8 @@
 <h3 align="center">3 years of experience in PHP</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuzuto&label=Profile%20views&color=0e75b6&style=flat" alt="fuzuto" /> </p>
 
-![Demo](bg4.gif)
+[![Demo](bg4.gif)](https://www.facebook.com/furryjakiz/)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuzuto" alt="fuzuto" /></a> </p>
