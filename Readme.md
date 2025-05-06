@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently a **Freelancer**
 
-- 🌱 I’m currently learning **Php and JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript and Php**
 
 - 📫 How to reach me **furryjaki1992@gmail.com**
 
