@@ -5,9 +5,6 @@
 [![Demo](bg4.gif)](https://www.facebook.com/furryjakiz/)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuzuto" alt="fuzuto" /></a> </p>
-
 - 🔭 I’m currently a **Freelancer**
 
 - 🌱 I’m currently learning **Java, JavaScript and Php**
