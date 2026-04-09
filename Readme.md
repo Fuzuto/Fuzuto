@@ -5,8 +5,8 @@
 [![Demo](bg4.gif)](https://www.facebook.com/furryjakiz/)
 
 
-- 🔭 I’m currently a **Freelancer**
-
+- 🔭 I’m currently an **International Student at <a href="https://valenciacollege.edu" target="_blank">Valencia</a>**
+  
 - 🌱 I’m currently learning **Java, JavaScript and Php**
 
 - 📫 How to reach me **furryjaki1992@gmail.com**
@@ -21,7 +21,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzuto&show_icons=true&locale=en&layout=compact" alt="fuzuto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuzuto&show_icons=true&locale=en" alt="fuzuto" /></p>
