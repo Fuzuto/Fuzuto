@@ -48,12 +48,22 @@ A responsive portfolio built with HTML, CSS, and JavaScript, featuring project g
 
 ## Technical Skills
 
-| Area | Technologies |
-| --- | --- |
-| Languages | PHP, TypeScript, JavaScript, Java, SQL |
-| Web | React, Next.js, HTML, CSS, Tailwind CSS |
-| Data & Backend | PostgreSQL, Supabase, MySQL |
-| Tools | Git, GitHub, Vercel, Postman |
+<p>
+  <img src="https://img.shields.io/badge/PHP-1F2937?style=flat-square&amp;logo=php&amp;logoColor=B1ACE5" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-1F2937?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-1F2937?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1F2937?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-1F2937?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&amp;logo=postgresql&amp;logoColor=69A8DC" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+</p>
+
+**Also work with:** SQL, HTML, CSS, MySQL, GitHub, Vercel, and Postman.
 
 ## Certifications
 
@@ -63,6 +73,25 @@ A responsive portfolio built with HTML, CSS, and JavaScript, featuring project g
 | JavaScript (Intermediate) | [View certificate](https://www.hackerrank.com/certificates/0320f8588062) |
 | React (Basic) | [View certificate](https://www.hackerrank.com/certificates/102b545bc513) |
 | CSS (Basic) | [View certificate](https://www.hackerrank.com/certificates/0831cde5eb8b) |
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Fuzuto">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Fuzuto&amp;show_icons=true&amp;hide_rank=true&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=GitHub%20Activity" />
+      <img width="350" align="top" src="https://github-stats-extended.vercel.app/api?username=Fuzuto&amp;show_icons=true&amp;hide_rank=true&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=GitHub%20Activity" alt="Fuzuto's public GitHub activity statistics" />
+    </picture>
+  </a>
+  <a href="https://github.com/Fuzuto">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Fuzuto&amp;layout=compact&amp;langs_count=6&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=Public%20Repository%20Languages" />
+      <img width="350" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fuzuto&amp;layout=compact&amp;langs_count=6&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=Public%20Repository%20Languages" alt="Languages used in Fuzuto's public repositories" />
+    </picture>
+  </a>
+</p>
+
+<sub>Public repositories only. Language percentages reflect repository code, not proficiency.</sub>
 
 ## Contact
 
