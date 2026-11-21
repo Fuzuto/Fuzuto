@@ -3,48 +3,56 @@
   <strong>Software Developer | Web Applications &amp; Game Systems</strong>
 </p>
 <p align="center">
-  <a href="https://fuzuto.github.io/bio/">Portfolio</a> ·
+  <a href="https://fuzuto.github.io/bio-website/">Portfolio</a> ·
   <a href="mailto:furryjaki1992@gmail.com">Email</a> ·
   <a href="https://fuzuto.github.io/bio/certificates.html">Certificates</a>
 </p>
+<p align="center"><strong>5 featured projects</strong> · <strong>2+ years of experience</strong> · <strong>200+ concurrent Minecraft players</strong></p>
 
 ## About Me
 
-I'm a developer and international student at [Valencia College](https://valenciacollege.edu/), based in Florida. I started learning programming through Minecraft server development and have since expanded into web applications.
+I'm a developer and international student at [Valencia College](https://valenciacollege.edu/), based in Florida. I started learning programming through Minecraft server development and have since expanded into web applications and desktop tools.
 
-My background is in PHP, with hands-on work in JavaScript, TypeScript, React, and PostgreSQL. I enjoy building practical software, from custom gameplay systems to tools that support a business's daily operations.
+## Featured Projects
 
-## Featured Project
+### NOIR Salon System
 
-### Noir Nail — Salon Management System
-
-A salon operations platform with three connected applications: a management dashboard, an employee PWA, and a QR-based guest drink menu.
+A salon operations platform that connects a management dashboard, an employee PWA, and a QR-based guest drink menu.
 
 - Role-based workflows for owners, receptionists, and technicians.
-- Turn rotation, technician assignments, attendance, waiting lists, and chair/table management.
+- Turn rotation, technician assignments, attendance, waiting lists, and chair and table management.
 - Live updates across connected devices, staff notifications, and guest drink ordering.
 - Server-side authorization, transactional database operations, and audit history to protect business records.
 
-**Stack:** TypeScript · Next.js · React · Tailwind CSS · Supabase · PostgreSQL · Vercel
+Built with TypeScript, Next.js, React, Tailwind CSS, Supabase, and PostgreSQL. The source is private. [Workspace tour](https://www.noirnail.store/#workspace)
 
-*Source code is private. Current development focuses on synchronization, data integrity, and testing.*
+### Paper Crane
 
-## More Projects
+A browser-based origami workspace with 12 guided folds, a 3D crane, and a personal collection saved in the browser. Built with TypeScript, Next.js, Three.js, and React Three Fiber. [Repository](https://github.com/Fuzuto/paper-crane)
 
-### Minecraft PE Servers & Gameplay Systems
+### Anatomy Atlas
 
-Developed SkyBlock and GTA-inspired Minecraft PE server projects, alongside custom gameplay features such as reforging, dungeons, job selection, gathering, and loot crates.
+An interactive 3D study tool with 73 labeled muscle structures. It supports search by body region or layer, isolation of individual muscles, and labeled exports. Built with TypeScript, React, Three.js, and Vite. [Open the atlas](https://fuzuto.github.io/Anatomy-Atlas/)
 
-[Project gallery](https://fuzuto.github.io/bio/gallery.html) ·
-[Reforging demo](https://www.youtube.com/watch?v=64d1ysI9420) ·
-[Dungeon demo](https://www.youtube.com/watch?v=8IRspHLNfEA) ·
-[Job selection demo](https://www.youtube.com/watch?v=aNxy0unvDGk)
+### Xiangqi Online
 
-### Personal Portfolio
+A Chinese chess game with private rooms, configurable clocks, and local two-player play. A shared TypeScript rules engine validates moves, with Next.js, Redis, and WebSockets supporting online play. [Repository](https://github.com/Fuzuto/xiangqi-online)
 
-A responsive portfolio built with HTML, CSS, and JavaScript, featuring project galleries, gameplay demonstrations, and certificate previews.
+### Meowize Optimize
 
-[Live portfolio](https://fuzuto.github.io/bio/) · [Source code](https://github.com/Fuzuto/bio)
+A Windows desktop toolkit for gaming setup, performance tuning, and network diagnostics. It previews changes before applying them and includes a simulation mode. Built with C#, .NET, WPF, and PowerShell. [Repository](https://github.com/Fuzuto/Meowize-Optimize) · [Windows releases](https://github.com/Fuzuto/Meowize-Optimize/releases/latest)
+
+## Minecraft Development
+
+**Minebox · Design & Development Intern · 6 months**. [Minebox](https://minebox.co/) · [Official trailer](https://www.youtube.com/watch?v=b7SJ1Yg68L0)
+
+I developed SkyBlock and GTA-inspired Minecraft PE server projects, with gameplay systems for reforging, dungeons, jobs, gathering, and loot crates. Java and Blockbench are part of my Minecraft development toolset.
+
+[Boss development](https://www.youtube.com/watch?v=rF1zqZPg2l4) · [Reforging](https://www.youtube.com/watch?v=64d1ysI9420) · [Jobs and classes](https://www.youtube.com/watch?v=aNxy0unvDGk) · [Dungeon demo](https://www.youtube.com/watch?v=8IRspHLNfEA)
+
+## Portfolio
+
+My React and TypeScript portfolio brings together project demos, a screenshot gallery, Minecraft dev logs, and a technology stack with color-coded icons. It includes an animated pixel-art opening, a Minecraft video backdrop, and controls for music, hover sounds, and volume. [Visit the portfolio](https://fuzuto.github.io/bio-website/)
 
 ## Technical Skills
 
@@ -52,7 +60,7 @@ A responsive portfolio built with HTML, CSS, and JavaScript, featuring project g
   <img src="https://img.shields.io/badge/PHP-1F2937?style=flat-square&amp;logo=php&amp;logoColor=B1ACE5" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-1F2937?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-1F2937?style=flat-square&amp;logo=openjdk&amp;logoColor=F6A56E" alt="Java" />
   <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
 </p>
 <p>
@@ -63,7 +71,15 @@ A responsive portfolio built with HTML, CSS, and JavaScript, featuring project g
   <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
 </p>
 
-**Also work with:** SQL, HTML, CSS, MySQL, GitHub, Vercel, and Postman.
+<p>
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-1F2937?style=flat-square&amp;logo=dotnet&amp;logoColor=C5A3FF" alt="C# and .NET" />
+  <img src="https://img.shields.io/badge/PowerShell-1F2937?style=flat-square&amp;logo=powershell&amp;logoColor=72BDFF" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Three.js-1F2937?style=flat-square&amp;logo=threedotjs&amp;logoColor=FFFFFF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&amp;logo=redis&amp;logoColor=FA938F" alt="Redis" />
+  <img src="https://img.shields.io/badge/Blockbench-1F2937?style=flat-square&amp;logo=blockbench&amp;logoColor=8EB8FA" alt="Blockbench" />
+</p>
+
+I also use SQL, HTML, CSS, MySQL, WPF, React Three Fiber, Motion, Vite, GitHub, Vercel, Playwright, and Postman.
 
 ## Certifications
 
@@ -95,4 +111,4 @@ A responsive portfolio built with HTML, CSS, and JavaScript, featuring project g
 
 ## Contact
 
-For project discussions and collaboration: [furryjaki1992@gmail.com](mailto:furryjaki1992@gmail.com).
+[Email](mailto:furryjaki1992@gmail.com) · [LinkedIn](https://www.linkedin.com/in/trung-l%C3%AA-657560440/) · [Instagram](https://www.instagram.com/furryjakiz/) · [Facebook](https://www.facebook.com/furryjakiz)
